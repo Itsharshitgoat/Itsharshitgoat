@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Harshit, a curious soul who loves blending creativity with technology.<br>I see the world a little differently — always imagining new ways to make life better.<br>I believe in learning through trying, failing, and figuring things out myself.<br>I’m passionate about minimalist design, deep thinking, and storytelling through code and ideas.<br>Every day, I’m building a life that feels true to who I am, one experiment at a time.
+🚀 | Fighting against the odds<br>💡 | Creating a better future for you
 
 
 ## 🌐 Socials:
