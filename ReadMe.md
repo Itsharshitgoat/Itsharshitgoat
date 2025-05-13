@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 | Fighting against the odds<br>💡 | Creating a better future for you
+🚀 | Fighting against the odds<br>💡  | Creating a better future for you
 
 
 ## 🌐 Socials:
