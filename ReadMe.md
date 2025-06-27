@@ -7,7 +7,7 @@ If I had to define myself in 3 points ( Honestly I can't )
 
 1. Experimental tech tinkerer who learns by doing.
 2. Lives in a mix of anime, whimsy, and mid-century style.
-3. Believes perfection’s a myth prefers to break and rebuild reality.
+3. Perfection’s a myth—prefers to break, rebuild reality.
 ```
 
 ## ✍️ Best Quote -
@@ -19,7 +19,7 @@ If I had to define myself in 3 points ( Honestly I can't )
   
 </div>
 
-# 🛠 Tech Stack -
+# 🛠 Tech Stack & Tools -
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,github,vscode,notion,windows" />
