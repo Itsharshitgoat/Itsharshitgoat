@@ -3,11 +3,11 @@
 <img src="https://tenor.com/es/view/dark-souls-gif-16150712255956092871.gif" alt="pixel" width="266" align="left"> 
 
 ```
-If i have to define me in 3 points what would i write ( Honestly i can't )
+If I had to define myself in 3 points ( Honestly I can't )
 
-1. Experimental tech tinkerer who learns by doing, not by a tutorial.
-2. Lives in a blend of anime, imagination, and mid-century aesthetics.
-3. Believes perfection is a myth, so i'd rather break and rebuild reality.
+1. Experimental tech tinkerer who learns by doing.
+2. Lives in a mix of anime, whimsy, and mid-century style.
+3. Believes perfection’s a myth prefers to break and rebuild reality.
 ```
 
 ## ✍️ Best Quote -
