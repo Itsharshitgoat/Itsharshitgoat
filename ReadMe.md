@@ -7,7 +7,7 @@ If I had to define myself in 3 points ( Honestly I can't )
 
 1. Experimental tech tinkerer who learns by doing.
 2. Lives in a mix of anime, whimsy, and mid-century style.
-3. Perfection’s a myth—prefers to break, rebuild reality.
+3. Perfection’s a myth. i prefer to break, rebuild reality.
 ```
 
 ## ✍️ Best Quote -
