@@ -18,10 +18,3 @@ If I had to define myself in 3 points ( Honestly I can't )
   </blockquote>
   
 </div>
-
-# 🛠 Tech Stack & Tools -
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,github,vscode,notion,windows" />
-  </a>
-</p>
