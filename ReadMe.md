@@ -1,6 +1,6 @@
 ## 📜 About Me -
 
-<img src="https://tenor.com/es/view/dark-souls-gif-16150712255956092871.gif" alt="pixel" width="266" align="left"> 
+<img src="https://tenor.com/es/view/dark-souls-gif-16150712255956092871.gif](https://c.tenor.com/4CLbOgXPh8cAAAAC/tenor.gif" alt="pixel" width="266" align="left"> 
 
 ```
 If I had to define myself in 3 points ( Honestly I can't )
