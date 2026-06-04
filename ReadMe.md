@@ -1,20 +1,14 @@
-## 📜 About Me -
 
-<img src="https://tenor.com/tpeA2skS3j9.gif" alt="pixel" width="266" align="left"> 
+Or, if you want something that feels more like a developer profile and less like a résumé:
 
-```
-If I had to define myself in 3 points ( Honestly I can't )
+```md
+## 🌌 About Me
 
-1. Experimental tech tinkerer who learns by doing.
-2. Lives in a mix of anime, whimsy, and mid-century style.
-3. Perfection’s a myth. i prefer to break, rebuild reality.
-```
+<img src="https://tenor.com/tpeA2skS3j9.gif" alt="pixel" width="260" align="right">
 
-## ✍️ Best Quote -
-<div align="center" width="50">
-  
-  <blockquote>
-    <p><b>The people who are crazy enough to think they can change the world are the ones who do</b></p>
-  </blockquote>
-  
-</div>
+```txt
+Student • Builder • Experimenter
+
+→ Building things to understand them.
+→ Breaking things to improve them.
+→ Rebuilding things differently.
