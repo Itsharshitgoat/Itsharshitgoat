@@ -1,14 +1,10 @@
-
-Or, if you want something that feels more like a developer profile and less like a résumé:
-
-```md
-## 🌌 About Me
+## 🚀 About Me
 
 <img src="https://tenor.com/tpeA2skS3j9.gif" alt="pixel" width="260" align="right">
 
 ```txt
-Student • Builder • Experimenter
+Not easy to summarize, but here's a rough attempt:
 
-→ Building things to understand them.
-→ Breaking things to improve them.
-→ Rebuilding things differently.
+• Experimental builder who learns by creating, breaking, and rebuilding.
+• Living somewhere between technology, anime, and mid-century aesthetics.
+• Constantly questioning how things work and how they could work better.
