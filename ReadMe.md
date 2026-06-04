@@ -1,9 +1,9 @@
 ## 📜 About Me -
 
-<img src="https://c.tenor.com/4CLbOgXPh8cAAAAC/tenor.gif" alt="pixel" width="270" align="left"> 
+<img src="https://c.tenor.com/4CLbOgXPh8cAAAAC/tenor.gif" alt="pixel" width="250" align="left"> 
 
 ```
-If I had to define myself in 3 points, It's Not easy but here's a rough attempt
+I had to define myself in 3 points It's Not easy but here's a rough attempt
 
 1. Experimental tech tinkerer who learns by doing.
 2. Lives in a mix of anime, whimsy, and mid-century style.
