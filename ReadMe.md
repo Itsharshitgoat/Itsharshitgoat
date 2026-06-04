@@ -1,6 +1,6 @@
 ## 📜 About Me -
 
-<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="pixel" width="140" align="left"> 
+<img src="https://c.tenor.com/4CLbOgXPh8cAAAAC/tenor.gif" alt="pixel" width="140" align="left"> 
 
 ```
 If I had to define myself in 3 points, It's Not easy but here's a rough attempt
